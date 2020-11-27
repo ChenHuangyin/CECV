@@ -1,0 +1,54 @@
+.container {
+  margin: 0 15px;
+  padding: 5px;
+}
+
+.nav {
+  margin: 2em auto;
+  display: inline-block;
+}
+
+.nav .btn {
+  width: 200px;
+  height: 40px;
+  margin: 0 15px;
+  border: 1px solid #ececec;
+  border-radius: 3px;
+  color: #ffffff;
+  outline: none;
+  font-size: 20px;
+}
+
+.nav .btn-highchart {
+  background: #508CC8;
+}
+
+.nav .btn-highchart:focus, .nav .btn-highchart:hover, .nav .btn-highchart.active {
+  background: #3F51B5;
+}
+/* Default style */
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 50px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
