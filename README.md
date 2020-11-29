@@ -9,7 +9,7 @@ CECV is a web application to convert cryptocurrency energy consumption data into
 
 According to the **BECI** from ***Digiconomist***, the peak value of the annual electricity consumption reached 77.782TWh, which is comparable to the power consumption of Chile. Besides, **the generated annual carbon footprint** is nearly 36.95 Mt of carbon dioxide, comparable to the carbon footprint of New Zealand. Moreover, **the electricity consumption of a single transaction** is 761.93 kWh, which is close to the energy consumption of 700,000 VISA payments and is equivalent to the 20-day average electricity consumption of American households, and the **e-waste generated** by each transaction is 101.10 grams.
 
-As for the **EECI**, the annual total electrical energy consumption of Ethereum is 11.89 TWh, which is comparable to the power consumption of Uruguay, and the footprint per single transaction is 29.44 kWh, equivalent to the power consumption of an average U.S. household over 0.99 days.
+As for the **EECI**, the annual total **electrical energy consumption** of Ethereum is 11.89 TWh, which is comparable to the power consumption of Uruguay, and the footprint per single transaction is 29.44 kWh, equivalent to the power consumption of an average U.S. household over 0.99 days.
 
 ### How to run CECV?
 
@@ -45,7 +45,7 @@ As for the **EECI**, the annual total electrical energy consumption of Ethereum 
 
 - [D3](https://github.com/d3/d3) (Data Visualization)
 
-- [Python3](https://www.python.org/) (Data processing and analysis)
+- [Python3](https://www.python.org/) (Data Processing and Analysis)
 
 - [Digiconomist](https://digiconomist.net/) (Data Source)
 
